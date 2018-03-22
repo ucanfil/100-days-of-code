@@ -9,3 +9,12 @@
 **Thoughts:** Mixing jQuery methods/functions with vanillaJs time to time, need to rewind a little bit and read docs again.
 
 **Link to work:** https://geddski.teachable.com/
+
+
+### Day 74: March 22, 2018 
+
+**Today's Progress**: Worked on CSS flexbox, Udacity Nanodegree Scholarship - Studied Performance section. 
+
+**Thoughts:** Learned about reflow & repaint, the call stack, the event loop, setTimeout(). Flexbox polishing continues.
+
+**Link to work:** flexbox >> https://geddski.teachable.com/
