@@ -18,3 +18,12 @@
 **Thoughts:** Learned about reflow & repaint, the call stack, the event loop, setTimeout(). Flexbox polishing continues.
 
 **Link to work:** flexbox >> https://geddski.teachable.com/
+
+
+### Day 75: March 23, 2018 
+
+**Today's Progress**: Worked on CSS flexbox, read about wireframing.
+
+**Thoughts:** Flexbox zombies challenges finished, hopefully i can use my flexbox skills building my portfolio website.
+
+**Link to work:** flexbox >> https://geddski.teachable.com/
