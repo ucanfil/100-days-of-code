@@ -27,3 +27,20 @@
 **Thoughts:** Flexbox zombies challenges finished, hopefully i can use my flexbox skills building my portfolio website.
 
 **Link to work:** flexbox >> https://geddski.teachable.com/
+
+
+### Day 76: March 24, 2018 
+
+**Today's Progress**: Approximately 1 hour worked on codewars challenges.
+
+**Thoughts:** 
+
+**Link to work:**
+
+### Day 77: March 25, 2018 
+
+**Today's Progress**: Approximately 1 hour worked on codewars challenges.
+
+**Thoughts:** 
+
+**Link to work:**
