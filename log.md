@@ -62,9 +62,76 @@
 
 **Link to work:**
 
+
 ### Day 80: March 28, 2018
 
 **Today's Progress**: Udacity/Google Front-end-web-dev, Worked on project-portfolio.
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 81: March 29, 2018
+
+**Today's Progress**: Udacity/Google Front-end-web-dev, Worked on project-portfolio.
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 82: March 30, 2018
+
+**Today's Progress**: Udacity/Google Front-end-web-dev, Worked on project-portfolio.
+
+**Thoughts:** It's finally, done! I should get used to semantics and flexbox usage. Check it out if you like >> https://ucanfil.github.io/
+
+**Link to work:**
+
+
+# I had to skip 2 days in a row without coding. Shouldn't let this happen, i should try harder in future.
+
+
+### Day 83: April 2, 2018
+
+**Today's Progress**: I wanted to recall "Color Game" project from Colt Steele's web developer bootcamp, so started to build from scratch. Next i will be working on "Memory Game" - Udacity Fend Challenge.
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 84: April 3, 2018
+
+**Today's Progress**: Worked on "Color Game" project from Colt Steele's web developer bootcamp.
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 85: April 4, 2018
+
+**Today's Progress**: Worked on "Memory Game" - Udacity Fend Challenge.
+
+**Thoughts:**
+
+**Link to work:**
+
+
+### Day 86: April 5, 2018
+
+**Today's Progress**: I picked up the course "Effective Thinking Through Matematics" from edx, thanks to **p1xt**. Finished first week.
+
+**Thoughts:** I'm planning to study on this course once a week, i find it pretty nice.
+
+**Link to work:** https://courses.edx.org/courses/course-v1:UTAustinX+UT.9.10x+3T2016/course/
+
+
+### Day 87: April 6, 2018
+
+**Today's Progress**: Refactored Color Game project, and gave it a style.
 
 **Thoughts:**
 
